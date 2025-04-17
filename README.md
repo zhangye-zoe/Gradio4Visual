@@ -53,7 +53,7 @@ python demo.py
 ## 🧪 界面展示
 
 <div align="center">
-  <img src="assets/demo_example.png" alt="Gradio4Visual demo screenshot" width="500"/>
+  <img src="assets/demo_example.png" alt="Gradio4Visual demo screenshot" width="800"/>
 </div>
 
 ---
